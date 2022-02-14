@@ -1,9 +1,12 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: efd65719-a23a-09e5-c189-f398b3334ee2
 title: Valuing Concept Transition
+type: CourseSection
 uid: bafbe7dc-c88e-69c4-e292-aa975e9fe49f
 ---
 

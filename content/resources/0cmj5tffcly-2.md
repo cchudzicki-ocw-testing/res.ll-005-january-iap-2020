@@ -3,7 +3,9 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/61b49d6d834871bde51cbbd319077259_0cmj5TfFCLY.srt
 file_type: application/x-subrip
+learning_resource_types: []
 resourcetype: Other
 title: 3play caption file
+type: OCWFile
 uid: 61b49d6d-8348-71bd-e51c-bbd319077259
 ---
