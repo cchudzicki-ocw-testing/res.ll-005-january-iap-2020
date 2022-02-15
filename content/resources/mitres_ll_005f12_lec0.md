@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: SupplementalResourceSection
 resourcetype: Document
 title: 'Signal Processing on Databases: Introduction'
-type: OCWFile
 uid: 2ff0a6db-9670-6fa9-1f77-ad0cbefc3a03
 ---

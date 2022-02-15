@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: SupplementalResourceSection
 resourcetype: Document
 title: 'Mathematics of Big Data and Machine Learning: AI Data ArchitectureProcessing'
-type: OCWFile
 uid: f198f43e-6774-d885-004b-63d413b3f699
 ---

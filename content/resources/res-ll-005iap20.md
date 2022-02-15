@@ -16,6 +16,5 @@ image_metadata:
 learning_resource_types: []
 resourcetype: Image
 title: res-ll-005iap20.jpg
-type: OCWImage
 uid: 7311378c-6e11-9441-5d5b-b278083d4987
 ---

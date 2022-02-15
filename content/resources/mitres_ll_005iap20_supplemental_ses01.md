@@ -10,6 +10,5 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: 'Mathematics of Big Data and Machine Learning: Artificial Intelligence and
   Machine Learning'
-type: OCWFile
 uid: 401f741b-ad39-6cbf-0fcf-9ae7b79e1029
 ---

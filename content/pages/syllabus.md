@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Syllabus
-type: SupplementalResourceSection
 uid: 0cd7ce1c-2ba7-9a20-0a67-821d6e5c8323
 ---
 

@@ -6,7 +6,6 @@ parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
 parent_uid: efd65719-a23a-09e5-c189-f398b3334ee2
 title: A Novel Course on a New Technology
-type: CourseSection
 uid: f92007e0-b0a4-d056-03fc-a626c1bda568
 ---
 

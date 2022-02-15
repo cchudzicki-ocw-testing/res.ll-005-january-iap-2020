@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: SupplementalResourceSection
 resourcetype: Document
 title: 'Signal Processing on Databases: Entity Analysis in Unstructured Data'
-type: OCWFile
 uid: 77022bf0-c720-f790-824e-bd25b90e786b
 ---

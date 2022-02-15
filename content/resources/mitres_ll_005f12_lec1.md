@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: SupplementalResourceSection
 resourcetype: Document
 title: 'Signal Processing on Databases: Using Associate Arrays'
-type: OCWFile
 uid: 31383c75-162c-f7fd-c77f-0e49c609f6b8
 ---

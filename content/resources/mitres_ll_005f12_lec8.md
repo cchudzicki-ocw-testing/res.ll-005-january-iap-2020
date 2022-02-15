@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: SupplementalResourceSection
 resourcetype: Document
 title: 'Signal Processing on Databases: Kronecker Graphs, Data Generation, and Performance'
-type: OCWFile
 uid: 4ad134fa-147c-4fe1-df1a-0900bcd03dd7
 ---
