@@ -6,6 +6,7 @@ file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/res-ll-005-m
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: SupplementalResourceSection
 resourcetype: Document

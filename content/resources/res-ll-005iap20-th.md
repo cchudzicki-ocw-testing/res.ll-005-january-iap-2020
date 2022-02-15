@@ -14,6 +14,7 @@ image_metadata:
   credit: ''
   image-alt: Many arrays of numbers 0 and 1 in a dark blue background
 learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: res-ll-005iap20-th.jpg
 uid: f5e28f00-88be-2704-8feb-4ed7cc0587dd

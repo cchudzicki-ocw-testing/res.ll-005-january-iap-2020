@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: JeremyKepner-1.png
 uid: eac5efde-a37b-aa60-7a13-45ec1dbd5633
