@@ -30,10 +30,10 @@ Instructor Insights
 
 _In the following pages, Jeremy Kepner describes various aspects of how he taught_ _D4M: Signal Processing on Databases._
 
-*   [A Novel Course on a New Technology]({{< baseurl >}}/pages/instructor-insights/a-novel-course-on-a-new-technology)
-*   [Lectures as Performance]({{< baseurl >}}/pages/instructor-insights/lectures-as-performance)
+*   {{< resource_link f92007e0-b0a4-d056-03fc-a626c1bda568 "A Novel Course on a New Technology" >}}
+*   {{< resource_link ff36ecd8-eeaf-ee37-3b35-8606a9c6bb0e "Lectures as Performance" >}}
 *   [Homework Assignments that Spotlight Application](/resources/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/instructor-insights/homework-assignments-that-spotlight-application/)
-*   [Valuing Concept Transition]({{< baseurl >}}/pages/instructor-insights/valuing-concept-transition)
+*   {{< resource_link bafbe7dc-c88e-69c4-e292-aa975e9fe49f "Valuing Concept Transition" >}}
 
 Curriculum Information
 ----------------------
