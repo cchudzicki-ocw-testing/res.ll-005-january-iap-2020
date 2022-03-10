@@ -32,7 +32,7 @@ _In the following pages, Jeremy Kepner describes various aspects of how he taugh
 
 *   {{% resource_link f92007e0-b0a4-d056-03fc-a626c1bda568 "A Novel Course on a New Technology" %}}
 *   {{% resource_link ff36ecd8-eeaf-ee37-3b35-8606a9c6bb0e "Lectures as Performance" %}}
-*   [Homework Assignments that Spotlight Application](/resources/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/instructor-insights/homework-assignments-that-spotlight-application/)
+*   {{% resource_link ae1a5e67-8996-e7a5-1e2e-26f4f24cd7d3 "Homework Assignments that Spotlight Application" %}}
 *   {{% resource_link bafbe7dc-c88e-69c4-e292-aa975e9fe49f "Valuing Concept Transition" %}}
 
 Curriculum Information
@@ -40,7 +40,7 @@ Curriculum Information
 
 ### Prerequisites
 
-[_18.06 Linear algebra_](/courses/18-06sc-linear-algebra-fall-2011/) and familiarity with MATLAB®
+[_18.06 Linear algebra_](/courses/18-06sc-linear-algebra-fall-2011) and familiarity with MATLAB®
 
 ### Requirements Satisfied
 
