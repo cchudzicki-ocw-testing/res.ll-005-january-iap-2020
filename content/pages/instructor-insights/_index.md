@@ -36,7 +36,7 @@ _In the following pages, Jeremy Kepner describes various aspects of how he taugh
 
 ### Prerequisites
 
-[_18.06 Linear algebra_](/courses/18-06sc-linear-algebra-fall-2011) and familiarity with MATLAB®
+[_18.06 Linear Algebra_](/courses/18-06sc-linear-algebra-fall-2011) and familiarity with MATLAB®
 
 ### Requirements Satisfied
 
