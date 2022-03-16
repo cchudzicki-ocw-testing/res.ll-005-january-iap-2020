@@ -54,7 +54,7 @@ Homework assignments were optional and not graded.
 
 ### Instructor Insights on Assessment
 
-Jeremy Kepner shares his insights about [Homework Assignments that Spotlight Application](/courses/res-ll-005-d4m-signal-processing-on-databases-fall-2012/pages/instructor-insights/homework-assignments-that-spotlight-application).
+Jeremy Kepner shares his insights about {{% resource_link ae1a5e67-8996-e7a5-1e2e-26f4f24cd7d3 "Homework Assignments that Spotlight Application" %}}.
 
 ## Student Information
 
