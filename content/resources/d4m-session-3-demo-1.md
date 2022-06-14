@@ -30,3 +30,4 @@ Description
 D4M.mit.edu software demo example/2Apps/1EntityAnalysis. Incidence array of text entities. Computing the entity degree distribution.
 
 **Instructor:** Jeremy Kepner
+

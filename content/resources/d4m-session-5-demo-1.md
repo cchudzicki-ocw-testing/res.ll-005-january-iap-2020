@@ -30,3 +30,4 @@ Description
 D4M.mit.edu software demo examples/2Apps/3PerfectPowerLaw. Generate synthetic power law distributions. Analyze power law distributions in real data.
 
 **Instructor:** Jeremy Kepner
+

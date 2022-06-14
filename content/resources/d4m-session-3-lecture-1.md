@@ -30,3 +30,4 @@ Description
 Historical evolution of the web and cloud computing. Using the exploded (D4M) schema. Analyzing computer network data. Analyzing computer network data.
 
 **Instructor:** Jeremy Kepner
+

@@ -30,3 +30,4 @@ Description
 Associative array mathematics. Relevant operations on an associative array. Semirings and matrices. See MIT Press book "Mathematics of Big Data."
 
 **Instructor:** Jeremy Kepner
+

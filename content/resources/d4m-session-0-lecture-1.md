@@ -30,3 +30,4 @@ Description
 Introduction to signal processing applied to graphs. Course outline. Discussion of relevant technologies programming and storage technologies. Constructing a graph from raw data.
 
 **Instructor:** Jeremy Kepner
+

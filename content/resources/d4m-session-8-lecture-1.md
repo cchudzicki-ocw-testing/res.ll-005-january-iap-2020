@@ -30,3 +30,4 @@ Description
 Theory of Kronecker graphs. Database ingest performance and database query performance. Array multiplication performance.
 
 **Instructor:** Jeremy Kepner
+

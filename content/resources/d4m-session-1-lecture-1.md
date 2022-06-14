@@ -30,3 +30,4 @@ Description
 Creating an exploded database schema. Standard database processing chain. Graph adjacency matrix. Vertex degree distribution. Directed graphs, multi-graphs, and hyper-graphs. Graph incidence matrix.
 
 **Instructor:** Jeremy Kepner
+

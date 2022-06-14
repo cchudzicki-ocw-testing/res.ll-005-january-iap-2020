@@ -30,3 +30,4 @@ Description
 In this video, which plays from the 00:23:28 to the end, Dr. Jeremy Kepner leads the class to explore the AI data architecture in data processing.
 
 **Instructor:** Jeremy Kepner
+

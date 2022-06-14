@@ -30,3 +30,4 @@ Description
 Computing statistics and analytics on data in the exploded (D4M) schema.
 
 **Instructor:** Jeremy Kepner
+

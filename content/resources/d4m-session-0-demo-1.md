@@ -30,3 +30,4 @@ Description
 Introduction to associative arrays. D4M.mit.edu software demo example/1Intro/1AssocIntro. Creating, writing, reading, selecting, and performing math on associative arrays.
 
 **Instructor:** Jeremy Kepner
+
