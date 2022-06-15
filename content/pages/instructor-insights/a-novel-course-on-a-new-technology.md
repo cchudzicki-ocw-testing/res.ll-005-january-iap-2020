@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'TLP 1: A Novel Course on a New Technology'
 draft: false
 layout: instructor_insights
 learning_resource_types: []
